@@ -58,8 +58,9 @@ def transliterate(text, debug=False):
 
 
 testset = ['bhumaka', 'nahapana', 'abhiraka', 'sarpaka', 'chaThana',\
-               'jayadaman', 'kardamaka', 'kanishka', 'rudradaman',\
-		'rudrasena','jivadaman','kujulakadphises','vematakho']
+               'jayadaman', 'kardamaka', 'kaNiSka', 'rudradaman',\
+		'rudrasena','jivadaman','kujulakasa','vematakho',\
+		'huveSka','vimakalpisha']
 
 with open('kharoshthi.txt','w') as f:
     for t in testset:

@@ -5,9 +5,11 @@ sarpaka	sa-ra-V-pa-ka	𐨯𐨪𐨿𐨤𐨐
 chaThana	cha-Tha-na	𐨖𐨛𐨣
 jayadaman	ja-ya-da-ma-na-V	𐨗𐨩𐨡𐨨𐨣𐨿
 kardamaka	ka-ra-V-da-ma-ka	𐨐𐨪𐨿𐨡𐨨𐨐
-kanishka	ka-na-i-sha-V-ka	𐨐𐨣𐨁𐨭𐨿𐨐
+kaNiSka	ka-Na-i-Sa-V-ka	𐨐𐨞𐨁𐨮𐨿𐨐
 rudradaman	ra-u-da-V-ra-da-ma-na-V	𐨪𐨂𐨡𐨿𐨪𐨡𐨨𐨣𐨿
 rudrasena	ra-u-da-V-ra-sa-e-na	𐨪𐨂𐨡𐨿𐨪𐨯𐨅𐨣
 jivadaman	ja-i-va-da-ma-na-V	𐨗𐨁𐨬𐨡𐨨𐨣𐨿
-kujulakadphises	ka-u-ja-u-la-ka-da-V-pha-i-sa-e-sa-V	𐨐𐨂𐨗𐨂𐨫𐨐𐨡𐨿𐨥𐨁𐨯𐨅𐨯𐨿
+kujulakasa	ka-u-ja-u-la-ka-sa	𐨐𐨂𐨗𐨂𐨫𐨐𐨯
 vematakho	va-e-ma-ta-kha-o	𐨬𐨅𐨨𐨟𐨑𐨆
+huveSka	ha-u-va-e-Sa-V-ka	𐨱𐨂𐨬𐨅𐨮𐨿𐨐
+vimakalpisha	va-i-ma-ka-la-V-pa-i-sha	𐨬𐨁𐨨𐨐𐨫𐨿𐨤𐨁𐨭
